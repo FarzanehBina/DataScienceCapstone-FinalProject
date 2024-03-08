@@ -1,0 +1,12 @@
+name: ShinyApp
+title: ShinyApp
+username: frznhbn
+account: frznhbn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11442216
+bundleId:
+url: https://frznhbn.shinyapps.io/ShinyApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
