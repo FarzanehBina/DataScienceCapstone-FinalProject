@@ -2,7 +2,7 @@
 #' title: 'Final Project'
 #' author: "Farzaneh Bina"
 #' date:  "08/03/2024"
-#' output: html_document
+#' output: github_document
 #' ---
 
 #' ## Shiny App 
